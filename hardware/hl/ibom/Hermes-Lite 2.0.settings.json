@@ -1,0 +1,50 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "Hermes-Lite 2.0",
+        "revision": "2.0-build9",
+        "company": "SofterHardware",
+        "date": "2019-08-11"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed",
+            "inPCB"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "",
+            "Placed": "",
+            "i": "",
+            "in": "",
+            "inP": "",
+            "inPC": "",
+            "inPCB": "268,267,266,265,263,262,261,260,228,185,323,334,333,332,227,235,234,173,171,169,166,184,27,175,174,172,170,168,353,167,247,246,26,25,207,206,197,196,71,70,69,68,67,429,208,198,72,35,33,34,9,141,140,66,58,408,374,425,57,390,48,47,46,45,264,205,195,204,194,65,134,84,76,88,87,86,355,107,106,136,137,135,85,354,375,276,275,274,273,272,271,445,446,203,189,191,321,320,319,318,317,315,314,313,387,388,397,398,210,209,42,41,427,428,38,37,21,20,19,379,54,380,393,401,126,125,50,49,251,250,249,248,32,30,29,28,277,212,211,12,127,124,322,316,122,116,245,244,92,80,77,91,104,100,356,105,103,102,101,412,413,31,399,400,142,243,242,416,414,201,56,121,117,119,118,155,55,415,417,215,202,188,62,324,214,213,61,120,11,132,131,129,128,199,63,133,130,83,82,190,90,89,377,376,15,183,423,485,75,362,0,1"
+        },
+        "darkMode": false,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "markWhenChecked": "inPCB"
+    }
+}
