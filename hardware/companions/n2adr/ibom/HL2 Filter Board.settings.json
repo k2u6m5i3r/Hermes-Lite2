@@ -1,0 +1,50 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "HL2 Filter Board",
+        "revision": "E5b9",
+        "company": "N2ADR",
+        "date": "2019-08-15"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed",
+            "inPCB"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "",
+            "Placed": "",
+            "i": "",
+            "in": "",
+            "inP": "",
+            "inPC": "",
+            "inPCB": "54,55,56,57,58,59,140,63,64,65,112,84,85,86,87,88,129,130,131,61,76,78,79,81,90,89,95,97,60,62,80,96,91,101,98,99,133,135,161,134,100,93,94,92,77,162"
+        },
+        "darkMode": false,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "markWhenChecked": "inPCB"
+    }
+}
